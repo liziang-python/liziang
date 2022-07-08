@@ -1,7 +1,7 @@
 - 👋 Hi, I’m liziang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in play computer games.
+- 🌱 I’m currently learning how to use GitHub.
+- 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me aileepython@gmail.com
 
 <!---
